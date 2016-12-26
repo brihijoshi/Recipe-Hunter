@@ -1,0 +1,2 @@
+# Recipe-Hunter
+A Rails Application which provides web page access to recipe information served by www.food2fork.com through JSON and images. Documentation for the API can be found at http://www.food2fork.com/about/api. The pattern of the application is according to the standard rails new application. Added a spec file to test the codes (from the assignment). Make sure you have the .rspec file in the same root directory.  Made as an assignment for the course "Introduction to Ruby on Rails" by Johns Hopkins University on Coursera.
